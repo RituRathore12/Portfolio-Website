@@ -22,7 +22,7 @@ btn.addEventListener("click",function(){
 //certificate
 let img = [
     "img/xlligent.jpeg",
-    "img/pythoncertificate.jpeg",
+    "img/Pythoncertificate.jpeg",
 ]
 let index = 0;
 let slider = document.querySelector(".slider")
